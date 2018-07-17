@@ -1,0 +1,11 @@
+10
+andrew 18 178
+michael 21 163
+david 22 180
+anna 19 175
+ilya 32 166
+catherine 19 173
+chip 28 160
+dmitry 27 190
+terry 20 170
+zak 30 181
